@@ -1,0 +1,2 @@
+
+![[Linux Boot Process.canvas]]
