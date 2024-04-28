@@ -9,8 +9,9 @@ Grub -> Grand Unified Boot loader
 
 grub configuration location: `/etc/default/grub`
 **We can change this file's content**
+
 Grub Configuration Location 2: `/boot/grub.cfg`
-**We as users can not changed this file**
+**We as users can not change this file**
 
 ## How to change grub configuration?
 ```
