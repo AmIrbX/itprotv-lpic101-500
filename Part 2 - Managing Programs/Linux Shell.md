@@ -19,7 +19,8 @@ Commands -> have default behaviors
 			e.g:
 ```
 	uname # Output: Linux
-	uname -a  # Output: Linux Username Kernel_Version #26~22.04.1-Ubuntu SMP                    PREEMPT_DYNAMIC Date/Time UTC 2 x86_64 x86_64 x86_64 GNU/Linux
+	uname -a  # Output: Linux Username Kernel_Version #26~22.04.1-Ubuntu SMP
+   		            # PREEMPT_DYNAMIC Date/Time UTC 2 x86_64 x86_64 x86_64 GNU/Linux
 ```
 
 ```
@@ -29,7 +30,8 @@ Commands -> have default behaviors
 
 ## View Text Files
 ```
-	less filename.extension # recommended for long files - allows for scrolling                                up and down and searching
+	less filename.extension # recommended for long files - allows for scrolling
+					# up and down and searching
 
 	more filename.extension # like less command but only allows scrolling down
 
