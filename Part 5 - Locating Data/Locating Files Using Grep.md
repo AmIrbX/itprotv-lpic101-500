@@ -9,7 +9,7 @@ of the file to search for it.
 	rgrep "dracula" ~/
 	grep -r "dracula" ~/
 ```
-`rgrep`**or**`grep -r`**is ==case-sensitive==**
+`rgrep`**or**`grep -r`**is case-sensitive**
 
 ## How to make `rgrep` case-insensitive?
 #### Using regex
