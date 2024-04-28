@@ -14,8 +14,8 @@ Commands:
 
 ## How to know wheather a device has been recognized or not?
 
-1- If recognized -> the device will have a name
-2- if NOT recognized -> will NOT have a name -> missing a Driver
+1. If recognized -> the device will have a name
+2.  if NOT recognized -> will NOT have a name -> missing a Driver
 
 
 ## Where are hardware drivers located?
