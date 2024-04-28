@@ -12,7 +12,7 @@ ls -a /home/$USER
 	/~/.bashrc -> Bash Settings
 ```
 
-`bashrc` settings have ==2== Scopes:
+`bashrc` settings have 2 Scopes:
 - User specified -> `/home/$USER/.bashrc`
 - Global Settings -> for all users. Locations:
 	- `/etc/bash.bashrc`
