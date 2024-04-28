@@ -7,7 +7,7 @@
 - `-name` -> an argument (Search By name)
 - `filename.txt` -> the file we want to search
 
-`find` **is ==case-sensitive==**
+`find` **is case-sensitive**
 
 ## How to use `find` to search by size?
 
