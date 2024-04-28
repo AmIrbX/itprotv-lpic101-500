@@ -67,7 +67,7 @@ we can see aliases with  `alias` command.
 
 ---
 #### A Recommended Tip
-`bash` by default can't run scripts on current directory. we can solve this problem by adding `.` meaning ==Current Directory== to the $PATH.
+`bash` by default can't run scripts on current directory. we can solve this problem by adding `.` meaning **Current Directory** to the $PATH.
 
 ```
 USER:~$ ls 
