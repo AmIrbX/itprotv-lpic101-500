@@ -1,6 +1,7 @@
-`grep` is a search engine.
-`grep` stands for -> **G**lobally Search a **R**egular **E**xpression and **P**rint
-`grep` is ==case sensitive==.
+- `grep` is a search engine.
+- `grep` stands for -> **G**lobally Search a **R**egular **E**xpression and **P**rint
+- `grep` is **case sensitive**.
+
 `grep` has 3 general modes:
 - Fixed String -> for a particular word
 - Regular Expression
