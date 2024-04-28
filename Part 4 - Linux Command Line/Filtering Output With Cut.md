@@ -31,7 +31,7 @@ by name of them in certain commands like `ls -lh`. So we should use a utility to
 
 ### Advanced usage of `sort`
 so now you think we can use `sort` to reverse sort directories by alphabetic order? 
-Nah. we still have the problem that sort compares character by character. Solution?
+Nah. we still have the problem that `sort` compares character by character. Solution?
 	
 ```
 	ls -lh | tr -s " " "	" | sort -r -t "	" -k 9
