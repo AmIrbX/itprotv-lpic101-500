@@ -4,7 +4,7 @@ it is for monitoring and controlling how much resources each application can use
 
 
 ### How To change Execution Priorities?
-#### tool: ==Nice==
+#### tool: Nice
 ```
 	sudo nice priority_num cmd
 	# e.g:
@@ -12,6 +12,7 @@ it is for monitoring and controlling how much resources each application can use
 ```
 
 **Default settings -> all programs have the same priority**
+
 **Range of the `priority_num`  : -20 ~ 19  -> lower number means higher priority**
 
 ### How to see other programs execution priority?
@@ -35,9 +36,9 @@ it is for monitoring and controlling how much resources each application can use
 ```
 
 **Important Signals:**
-	1. SIGHUP -> Signal Hang Up -> reloads a program(most of the times it won't work)
-	2. SIGKILL -> Terminates a job or program
-	3. SIGTERM -> asks the program to terminate itself
+1. SIGHUP -> Signal Hang Up -> reloads a program(most of the times it won't work)
+2. SIGKILL -> Terminates a job or program
+3. SIGTERM -> asks the program to terminate itself
 
 
 #### Kill all instances of a program 
