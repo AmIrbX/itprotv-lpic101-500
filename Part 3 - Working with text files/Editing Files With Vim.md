@@ -7,7 +7,9 @@
 3. Visual Mode: just read-only
 
 **For Entering in Insert Mode -> Type `i`**
+
 **For Entering in Command Mode -> Type `:`**
+
 **For Entering in Visual Mode -> Press `ESC`**
 
 - How to exit from vim modes -> Press `Esc` or `Ctrl + C`
