@@ -4,10 +4,10 @@ User -> Software -> Kernel -> Drivers
 Kernel interacts with drivers (Calls them) with `ubus` service.
 
 Commands:
-`lspci` -> lists all recognized PCI devices 
-`lsusb` -> lists all recognized USB devices
-`lsmod` -> lists all installed Modules
-`rmmod` -> Removes a module (Temporary)
+- `lspci` -> lists all recognized PCI devices
+- `lsusb` -> lists all recognized USB devices
+- `lsmod` -> lists all installed Modules
+- `rmmod` -> Removes a module (Temporary)
 
 
 ---
