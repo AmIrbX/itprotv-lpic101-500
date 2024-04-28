@@ -12,7 +12,7 @@ These are the most common algorithms that a developer or a vendor might use:
 	sha128sum
 ```
 
-## How to use `checksum`:=
+## How to use `checksum`:
 ```
 	sha256sum filename.txt
 
