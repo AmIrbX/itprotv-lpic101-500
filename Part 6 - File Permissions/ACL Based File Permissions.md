@@ -77,7 +77,7 @@ we use `getfacl` to see the ACL permissions.
 	setfacl -m d:g:nik:rw filename_or_directory
 ```
 
-**Only ==NEW== files will inherit the permissions.**
+**Only NEW files will inherit the permissions.**
 ### How to know if ACL is enabled for a folder?
 just use `ls -l` and check the permissions's column. if there's a `+` after the last character 
 it means that folder is using ACL.
