@@ -3,7 +3,7 @@ pipe is a character on the keyboard.
 ```
 Pipe -> |
 ```
-We can use pipes to redirect **==commands==** output to another **==command==**. 
+We can use pipes to redirect **commands** output to another **command**. 
 
 
 ### Example:
@@ -19,7 +19,7 @@ All output from `dmesg` will be redirected to `grep` command.
 
 ## There's a problem
 Some programs in Linux doesn't support piping.
-for example if we have a text file with folders name and we want to create them easily with piping, right?
+for example if we have a text file with folders name and we think we can create them easily with pipes, right?
 ```
 	cat filenames.txt | mkdir
 ```
@@ -29,8 +29,8 @@ for example if we have a text file with folders name and we want to create them 
 	cat filenames.txt | xargs mkdir
 ```
 
-and now another problem... . `bash` expects another filename after a space so there may be too many files if we have a folder like 
-`i am dumb`. 
+and now another problem... . 
+`bash` expects another filename after a space so there may be too many files if we have a folder like `i am dumb`. 
 output of a folder name like `i am dumb` will be:
 - `i` -> folder
 - `am` -> folder
