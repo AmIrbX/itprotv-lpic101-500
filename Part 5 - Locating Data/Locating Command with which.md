@@ -23,6 +23,7 @@
 |   Fast   |     Not available in all distros      |
 | Powerful |         needs maintenance **          |
 |          | will not tell me which file i'm using |
+
 ** `locate` use a db to store and search through the hard drive so when you create a new file you should update that database to 
 	make sure it works.
 		`sudo updatedb`
