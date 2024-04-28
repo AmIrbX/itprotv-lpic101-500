@@ -1,5 +1,5 @@
 ## What are Redirects and how to use them?
-Writing output of a **==command==** to a **==device==** or in a **==file==**
+Writing output of a **command** to a **device** or in a **file**
 
 ```
 	stdout # Standard Out
