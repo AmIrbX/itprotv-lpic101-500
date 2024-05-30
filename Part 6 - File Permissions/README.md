@@ -1,2 +1,2 @@
 Part 6 - File Permissions
-ITPROTC LPIC 101-500 
+ITPROTV LPIC 101-500 
